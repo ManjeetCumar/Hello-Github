@@ -1,2 +1,3 @@
 # Hello-Github
-first project on github ;
+First project on github ;
+I like github. Its awesome..
